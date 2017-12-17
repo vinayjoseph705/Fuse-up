@@ -1,2 +1,2 @@
 # Fuse-up
-Fuse up - game for Android, is , web
+Fuse up - game for Android, Ios, PC, web
